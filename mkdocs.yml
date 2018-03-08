@@ -1,0 +1,38 @@
+site_name: Interaction Design for the Technically Minded
+theme:
+  name: 'material'
+pages: 
+  - Home: index.md
+  - What's it all about:
+    - Human Computer Interaction: '1a/hci.md'
+    - Interaction Design: '1a/ixd.md'
+    - User Experience: '1a/ux.md'
+    - Human Factors: '1a/humanFactors.md'
+    - User Centred Design: '1a/ucd.md'
+  - Designing Technology is a Wicked Problem:
+    - Wicked Problems: '1b/wicked.md'
+    - Envisioned Worlds: '1b/envisioned.md'
+    - Design Thinking: '1b/designThinking.md'
+  - Thinking about Design:
+    - Norman's Five Principles: '1c/norman.md'
+    - Three Models of the System: '1c/threeModels.md'
+    - Design Principles: '1c/designPrinciples.md'
+  - A First Design Experience:
+    - Your Design Journey: '1x/yourJourney.md'
+    - Stage 1 - Pitch: '1x/pitch.md'
+    - Stage 2 - Lo-Fi Prototype: '1x/lowFiPrototype.md'
+    - Stage 3 - Working Prototype: '1x/workingPrototype.md'
+  - Empathise:
+    - User research: "2/userResearch.md"
+    - Interviews & Focus Groups: "2/interviews.md"
+    - Observation: "2/observation.md"
+    - Contextual Inquiry: "2/contextualInquiry.md"
+    - Ethnography: "2/ethnography.md"
+    - Diary Studies: "2/diaryStudies.md"
+    - Card Sorting: "2/cardSorting.md"
+    - Artifact Analysis: "2/artifactAnalysis.md"
+    - Surveys: "2/surveys.md"
+  - Define:
+    - Personas: "3/personas.md"
+
+    
