@@ -1,0 +1,229 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Preface\n\n\nI teach user experience and interaction design to students who already have a reasonable background in programming, but limited exposure to design concepts.\n\n\nThis matches my own route into research -- I began my career developing technology in industry, and soon discovered I wanted to design it \ndifferently\n and cared quite deeply about technology innovation and using the design of technology as a way to explore different problem spaces (research through design).\n\n\nIn my teaching, I like to set challenges that will prompt students to encounter the problems we want to talk about -- on occasion, I've nicknamed this the \"feel the pain\" pedagogy. So, when I teach user experience and interaction design, I ask students to use human-centred design approaches to take an app idea from initial pitch, through user research and low-fidelity prototyping, to developing a working prototype of the most important part of the app. That's not too different from most other user experience courses, but it bears mentioning as context.\n\n\nAs students work through their projects, there's a set of videos explaining and introducing various Human-Computer Interaction concepts. But I can be quite visual in my videos, preferring not to talk over bullet points wherever possible. So, this site is intended to evolve into being a set of notes to go alongside my teaching. Please note, though, this is \nnot intended to be a replacement for watching the videos\n -- even when the site is more complete, not everything in a class will necessarily appear in the text here; rather, it's a replacement for having bullet points on the slides.\n\n\nExperimentally, I'm going to try embeddeding the videos into the pages of the site. That'll take a little while to do, though, as at the moment these pages are broken up into smaller sections than the videos.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#preface", 
+            "text": "I teach user experience and interaction design to students who already have a reasonable background in programming, but limited exposure to design concepts.  This matches my own route into research -- I began my career developing technology in industry, and soon discovered I wanted to design it  differently  and cared quite deeply about technology innovation and using the design of technology as a way to explore different problem spaces (research through design).  In my teaching, I like to set challenges that will prompt students to encounter the problems we want to talk about -- on occasion, I've nicknamed this the \"feel the pain\" pedagogy. So, when I teach user experience and interaction design, I ask students to use human-centred design approaches to take an app idea from initial pitch, through user research and low-fidelity prototyping, to developing a working prototype of the most important part of the app. That's not too different from most other user experience courses, but it bears mentioning as context.  As students work through their projects, there's a set of videos explaining and introducing various Human-Computer Interaction concepts. But I can be quite visual in my videos, preferring not to talk over bullet points wherever possible. So, this site is intended to evolve into being a set of notes to go alongside my teaching. Please note, though, this is  not intended to be a replacement for watching the videos  -- even when the site is more complete, not everything in a class will necessarily appear in the text here; rather, it's a replacement for having bullet points on the slides.  Experimentally, I'm going to try embeddeding the videos into the pages of the site. That'll take a little while to do, though, as at the moment these pages are broken up into smaller sections than the videos.", 
+            "title": "Preface"
+        }, 
+        {
+            "location": "/1a/hci/", 
+            "text": "Human Computer Interaction\n\n\n\n\nThis is the broadest term we're going to introduce. \n\n\nHCI (sometimes CHI -- eg, the CHI conference) is a research discipline bringing together everyone who has an interest in developing interactive technology\n\n\nCan be technical about hardward (Sutherland, Jeff Han)\n\n\nCan be about new kinds of software\n\n\nCan be sociological or psychological -- how people and societies interact with particular kinds of technology", 
+            "title": "Human Computer Interaction"
+        }, 
+        {
+            "location": "/1a/hci/#human-computer-interaction", 
+            "text": "This is the broadest term we're going to introduce.   HCI (sometimes CHI -- eg, the CHI conference) is a research discipline bringing together everyone who has an interest in developing interactive technology  Can be technical about hardward (Sutherland, Jeff Han)  Can be about new kinds of software  Can be sociological or psychological -- how people and societies interact with particular kinds of technology", 
+            "title": "Human Computer Interaction"
+        }, 
+        {
+            "location": "/1a/ixd/", 
+            "text": "Interaction Design\n\n\n\n\n\n\nInteraction Design is a term that conveys the idea of designing interactive technology. It's still a very broad term, but slightly narrower than HCI. For example, an HCI project might consider how technology \nis\n used, and stop there. Whereas if we're talking about interaction \ndesign\n, that suggests we'd like to think about how we \nwant\n it to be used, and how me might design the technology to encourage that to happen.\n\n\n\n\n\n\nIt is also a slightly \noverloaded\n term -- there's not one universal definition of what constitutes interaction design and what doesn't.\n\n\n\n\n\n\nThere are various ways of thinking about what goes into a product. One might be to think about\n\n\n\n\nThe software design -- how the device works technically\n\n\nThe visual design -- what it looks like\n\n\nThe interaction design -- how you envisage users working with the app\n\n\n\n\n\n\n\n\nUser Experience Iceberg\n\n\nOccasionally, people have a misconception that HCI, or UX, is simply about \"the UI\". Sometimes, even academics do this. Every now and then, I meet another academic at the university and they ask what my research area is. And as soon as I've mentioned HCI, they've made some remark on \"oh, you research buttons\" or on making interfaces look nice.\n\n\nHowever, design runs much deeper into the application, into how it works not just how it looks. The \"User Experience Iceberg\" gets represented a number of different ways, but one is that it covers:\n\n\n\n\nThe user interface\n\n\nThe interaction -- how the user works with the app\n\n\nStructure -- how the app is designed and built\n\n\nScope -- what the app is intended to do, and what it's not intended to do\n\n\nStrategy -- the goals of the people (or company) producing the app. For example, are they trying to reach into a particular market niche? \n\n\n\n\nThinking about a bicycle\n\n\nLet's use a physical example to delve into this a little further. Let's consider the differences between a vintage bicycle and a modern racing bike.\n\n\n\n\n\n\nThere's an \naesthetic\n difference -- the vintage bike conveys a certain aesthetic that some riders might feel corresponds to their self-identity.\n\n\n\n\n\n\nBut there's also ergonomic differences -- for example, the handles on a racing bike are a different shape, putting the rider into a more aerodynamic posture (but perhaps also a more dangerous posture in traffic -- it's more effort to look up at the road)\n\n\n\n\n\n\nThere are differences of engineering -- the racing bike, being made of modern alloys is likely to be lighter and more rigid\n\n\n\n\n\n\nThere are differences of functionality -- the vintage bicycle is much more likely to have a light and mudgards, for legally riding around on wet evenings.\n\n\n\n\n\n\nThe design of the bicycle isn't simply about its looks, but many different kinds of relationship between the bicycle, its purpose, its structure, its materials, and its rider.", 
+            "title": "Interaction Design"
+        }, 
+        {
+            "location": "/1a/ixd/#interaction-design", 
+            "text": "Interaction Design is a term that conveys the idea of designing interactive technology. It's still a very broad term, but slightly narrower than HCI. For example, an HCI project might consider how technology  is  used, and stop there. Whereas if we're talking about interaction  design , that suggests we'd like to think about how we  want  it to be used, and how me might design the technology to encourage that to happen.    It is also a slightly  overloaded  term -- there's not one universal definition of what constitutes interaction design and what doesn't.    There are various ways of thinking about what goes into a product. One might be to think about   The software design -- how the device works technically  The visual design -- what it looks like  The interaction design -- how you envisage users working with the app", 
+            "title": "Interaction Design"
+        }, 
+        {
+            "location": "/1a/ixd/#user-experience-iceberg", 
+            "text": "Occasionally, people have a misconception that HCI, or UX, is simply about \"the UI\". Sometimes, even academics do this. Every now and then, I meet another academic at the university and they ask what my research area is. And as soon as I've mentioned HCI, they've made some remark on \"oh, you research buttons\" or on making interfaces look nice.  However, design runs much deeper into the application, into how it works not just how it looks. The \"User Experience Iceberg\" gets represented a number of different ways, but one is that it covers:   The user interface  The interaction -- how the user works with the app  Structure -- how the app is designed and built  Scope -- what the app is intended to do, and what it's not intended to do  Strategy -- the goals of the people (or company) producing the app. For example, are they trying to reach into a particular market niche?", 
+            "title": "User Experience Iceberg"
+        }, 
+        {
+            "location": "/1a/ixd/#thinking-about-a-bicycle", 
+            "text": "Let's use a physical example to delve into this a little further. Let's consider the differences between a vintage bicycle and a modern racing bike.    There's an  aesthetic  difference -- the vintage bike conveys a certain aesthetic that some riders might feel corresponds to their self-identity.    But there's also ergonomic differences -- for example, the handles on a racing bike are a different shape, putting the rider into a more aerodynamic posture (but perhaps also a more dangerous posture in traffic -- it's more effort to look up at the road)    There are differences of engineering -- the racing bike, being made of modern alloys is likely to be lighter and more rigid    There are differences of functionality -- the vintage bicycle is much more likely to have a light and mudgards, for legally riding around on wet evenings.    The design of the bicycle isn't simply about its looks, but many different kinds of relationship between the bicycle, its purpose, its structure, its materials, and its rider.", 
+            "title": "Thinking about a bicycle"
+        }, 
+        {
+            "location": "/1a/ux/", 
+            "text": "User Experience\n\n\nConceptually, user experience is a broader term than interaction design. We can design the product, but the user experience depends on aspects of the user (and though we can identify and characterise our users, we can't \ndesign\n them)\n\n\nHowever, in industry UX is sometimes as a narrower term -- a shorthand for roles whose \nmain concern\n is the user experience of the product rather than its technical construction. Whereas the programmers, who also impact the user experience (if their code doesn't work and it breaks, that's not a great experience!) tend to be busy coding and designing the software architecture.\n\n\n\n\nBreakfast analogy\n\n\nThermomix example (the user experience is not necessarily centred around the UI)\n\n\nUX roles in industry can vary along many dimensions, for example:\n\n\nhow technical (\"just\" the UX, versus front end roles)\n\n\nhow deep (whether the role is confined to the UI layer of the architecture, or is full-stack)\n\n\nhow polished (producing wirefames and mockups, or pixel perfect designs)\n\n\nhow established (designing a new product is different from refining an existing product)\n\n\nmethodology (depending on the number of users, it might be mostly qualitative or mostly quantitative)", 
+            "title": "User Experience"
+        }, 
+        {
+            "location": "/1a/ux/#user-experience", 
+            "text": "Conceptually, user experience is a broader term than interaction design. We can design the product, but the user experience depends on aspects of the user (and though we can identify and characterise our users, we can't  design  them)  However, in industry UX is sometimes as a narrower term -- a shorthand for roles whose  main concern  is the user experience of the product rather than its technical construction. Whereas the programmers, who also impact the user experience (if their code doesn't work and it breaks, that's not a great experience!) tend to be busy coding and designing the software architecture.   Breakfast analogy  Thermomix example (the user experience is not necessarily centred around the UI)  UX roles in industry can vary along many dimensions, for example:  how technical (\"just\" the UX, versus front end roles)  how deep (whether the role is confined to the UI layer of the architecture, or is full-stack)  how polished (producing wirefames and mockups, or pixel perfect designs)  how established (designing a new product is different from refining an existing product)  methodology (depending on the number of users, it might be mostly qualitative or mostly quantitative)", 
+            "title": "User Experience"
+        }, 
+        {
+            "location": "/1a/humanFactors/", 
+            "text": "Human Factors\n\n\n\n\n\n\nAnother research discipline, this emerged from disasters (\"signal events\") that made people realise that sometimes working systems can fail due to human factors\n\n\n\n\n\n\nSocio-technical systems\n -- a system isn't just technology. For example, air traffic control involves not just radar and aeroplanes, but air traffic controllers, pilots, and how they communicate.\n\n\n\n\n\n\nTenerife disaster -- two fully working aeroplanes collided at the airport, costing many lives, largely owing to a communication misunderstanding\n\n\n\n\n\n\nThree Mile Island -- a minor incident nearly became a nuclear catastrophe because the nuclear plant operators had a subtle misconception about what an indicator light was indicating.\n\n\n\n\n\n\nMedical mistakes -- communication errors are the largest category of medical error. For example, if a doctor is interrupted when taking a patient history, they might assume a question has been answered that has not been, and miss a key answer that would have indicated the patient may have cardiac issues and should be treated differently.", 
+            "title": "Human Factors"
+        }, 
+        {
+            "location": "/1a/humanFactors/#human-factors", 
+            "text": "Another research discipline, this emerged from disasters (\"signal events\") that made people realise that sometimes working systems can fail due to human factors    Socio-technical systems  -- a system isn't just technology. For example, air traffic control involves not just radar and aeroplanes, but air traffic controllers, pilots, and how they communicate.    Tenerife disaster -- two fully working aeroplanes collided at the airport, costing many lives, largely owing to a communication misunderstanding    Three Mile Island -- a minor incident nearly became a nuclear catastrophe because the nuclear plant operators had a subtle misconception about what an indicator light was indicating.    Medical mistakes -- communication errors are the largest category of medical error. For example, if a doctor is interrupted when taking a patient history, they might assume a question has been answered that has not been, and miss a key answer that would have indicated the patient may have cardiac issues and should be treated differently.", 
+            "title": "Human Factors"
+        }, 
+        {
+            "location": "/1a/ucd/", 
+            "text": "User Centred Design\n\n\nOtherwise called \"human-centred design\", to avoid labelling your users as if using your app was their defining characteristic. They don't exist to be users of your app -- they are humans looking to get on with their lives, and hoping that your app will help them in some way.\n\n\nThis is the term we're going to spend most of the course on. How do we put users at the centre of our designs? How do we ensure that what we design helps our users and works well with their ways of working?", 
+            "title": "User Centred Design"
+        }, 
+        {
+            "location": "/1a/ucd/#user-centred-design", 
+            "text": "Otherwise called \"human-centred design\", to avoid labelling your users as if using your app was their defining characteristic. They don't exist to be users of your app -- they are humans looking to get on with their lives, and hoping that your app will help them in some way.  This is the term we're going to spend most of the course on. How do we put users at the centre of our designs? How do we ensure that what we design helps our users and works well with their ways of working?", 
+            "title": "User Centred Design"
+        }, 
+        {
+            "location": "/1b/wicked/", 
+            "text": "Designing technology is a wicked problem...\n\n\nIf they land a man on Mars...\n\n\n\n\nDesign needs to make the world a better place...\n\n\nWhat's the problem? How are we going to solve it?\n\n\nWicked problems\n\n\nEnvisioned world problem", 
+            "title": "Wicked Problems"
+        }, 
+        {
+            "location": "/1b/wicked/#designing-technology-is-a-wicked-problem", 
+            "text": "", 
+            "title": "Designing technology is a wicked problem..."
+        }, 
+        {
+            "location": "/1b/wicked/#if-they-land-a-man-on-mars", 
+            "text": "Design needs to make the world a better place...  What's the problem? How are we going to solve it?  Wicked problems  Envisioned world problem", 
+            "title": "If they land a man on Mars..."
+        }, 
+        {
+            "location": "/1b/envisioned/", 
+            "text": "", 
+            "title": "Envisioned Worlds"
+        }, 
+        {
+            "location": "/1b/designThinking/", 
+            "text": "Design Thinking", 
+            "title": "Design Thinking"
+        }, 
+        {
+            "location": "/1b/designThinking/#design-thinking", 
+            "text": "", 
+            "title": "Design Thinking"
+        }, 
+        {
+            "location": "/1c/norman/", 
+            "text": "", 
+            "title": "Norman's Five Principles"
+        }, 
+        {
+            "location": "/1c/threeModels/", 
+            "text": "", 
+            "title": "Three Models of the System"
+        }, 
+        {
+            "location": "/1c/designPrinciples/", 
+            "text": "", 
+            "title": "Design Principles"
+        }, 
+        {
+            "location": "/1x/yourJourney/", 
+            "text": "Your Design Journey\n\n\nPitch\n\n\n\n\nA useful skill in itself\n\n\nCan be the shortest route to discover \"why am I wrong\"\n\n\nThough we're doing UCD, have an \"idea in your back pocket\"\n\n\n\n\nLow Fidelity Prototype\n\n\n\n\nUser research\n\n\nShow us your design process\n\n\nOn-paper wireframe\n\n\nOne built using a prototyping tool\n\n\nUsability testing results\n\n\nHow you'll change your design\n\n\n\n\nWorking Prototype\n\n\n\n\nCode it!\n\n\nVideo it working\n\n\nPitch\n\n\nUsability test\n\n\nWhere would it head next?", 
+            "title": "Your Design Journey"
+        }, 
+        {
+            "location": "/1x/yourJourney/#your-design-journey", 
+            "text": "", 
+            "title": "Your Design Journey"
+        }, 
+        {
+            "location": "/1x/yourJourney/#pitch", 
+            "text": "A useful skill in itself  Can be the shortest route to discover \"why am I wrong\"  Though we're doing UCD, have an \"idea in your back pocket\"", 
+            "title": "Pitch"
+        }, 
+        {
+            "location": "/1x/yourJourney/#low-fidelity-prototype", 
+            "text": "User research  Show us your design process  On-paper wireframe  One built using a prototyping tool  Usability testing results  How you'll change your design", 
+            "title": "Low Fidelity Prototype"
+        }, 
+        {
+            "location": "/1x/yourJourney/#working-prototype", 
+            "text": "Code it!  Video it working  Pitch  Usability test  Where would it head next?", 
+            "title": "Working Prototype"
+        }, 
+        {
+            "location": "/1x/pitch/", 
+            "text": "Pitch", 
+            "title": "Stage 1 - Pitch"
+        }, 
+        {
+            "location": "/1x/pitch/#pitch", 
+            "text": "", 
+            "title": "Pitch"
+        }, 
+        {
+            "location": "/1x/lowFiPrototype/", 
+            "text": "Low Fidelity Prototype", 
+            "title": "Stage 2 - Lo-Fi Prototype"
+        }, 
+        {
+            "location": "/1x/lowFiPrototype/#low-fidelity-prototype", 
+            "text": "", 
+            "title": "Low Fidelity Prototype"
+        }, 
+        {
+            "location": "/1x/workingPrototype/", 
+            "text": "Working Prototype", 
+            "title": "Stage 3 - Working Prototype"
+        }, 
+        {
+            "location": "/1x/workingPrototype/#working-prototype", 
+            "text": "", 
+            "title": "Working Prototype"
+        }, 
+        {
+            "location": "/2/userResearch/", 
+            "text": "User Research", 
+            "title": "User research"
+        }, 
+        {
+            "location": "/2/userResearch/#user-research", 
+            "text": "", 
+            "title": "User Research"
+        }, 
+        {
+            "location": "/2/interviews/", 
+            "text": "", 
+            "title": "Interviews & Focus Groups"
+        }, 
+        {
+            "location": "/2/observation/", 
+            "text": "", 
+            "title": "Observation"
+        }, 
+        {
+            "location": "/2/contextualInquiry/", 
+            "text": "", 
+            "title": "Contextual Inquiry"
+        }, 
+        {
+            "location": "/2/ethnography/", 
+            "text": "", 
+            "title": "Ethnography"
+        }, 
+        {
+            "location": "/2/diaryStudies/", 
+            "text": "", 
+            "title": "Diary Studies"
+        }, 
+        {
+            "location": "/2/cardSorting/", 
+            "text": "", 
+            "title": "Card Sorting"
+        }, 
+        {
+            "location": "/2/artifactAnalysis/", 
+            "text": "", 
+            "title": "Artifact Analysis"
+        }, 
+        {
+            "location": "/2/surveys/", 
+            "text": "", 
+            "title": "Surveys"
+        }, 
+        {
+            "location": "/3/personas/", 
+            "text": "", 
+            "title": "Personas"
+        }
+    ]
+}
